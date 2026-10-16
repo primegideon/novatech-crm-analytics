@@ -1,10 +1,10 @@
-# NovaTech Enterprise CRM & Revenue Analytics with Amazon QuickSight
+# NovaTech Enterprise CRM & Revenue Analytics with Amazon Quick Sight
 
-[![AWS](https://img.shields.io/badge/AWS-QuickSight-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/quicksight/)
-[![Generative BI](https://img.shields.io/badge/Amazon_QuickSight-Q-4053D6?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/quicksight/q/)
+[![AWS](https://img.shields.io/badge/AWS-Quick_Sight-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/quick/quicksight/)
+[![Generative BI](https://img.shields.io/badge/Amazon-Quick-4053D6?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/quick/quicksight/)
 [![Data Analytics](https://img.shields.io/badge/Enterprise-BI_Analytics-232F3E?style=for-the-badge&logo=databricks&logoColor=white)](https://aws.amazon.com/)
 
-A comprehensive business intelligence platform and Generative BI evaluation using **Amazon QuickSight** and **Amazon QuickSight Q**. The system integrates multi-domain telemetry across sales pipeline performance, marketing funnel conversions, and enterprise customer health records for NovaTech Corporation.
+A comprehensive business intelligence platform and Generative BI evaluation using **Amazon Quick** and **Amazon Quick Sight**. The system integrates multi-domain telemetry across sales pipeline performance, marketing funnel conversions, and enterprise customer health records for NovaTech Corporation.
 
 ---
 
@@ -12,7 +12,7 @@ A comprehensive business intelligence platform and Generative BI evaluation usin
 
 This repository encompasses the data architecture, schema specifications, validation logs, and executive presentation deliverables for NovaTech's enterprise analytics infrastructure.
 
-By synthesizing relational data from sales, marketing, and support streams connected through `account_id`, this platform enables unified cross-departmental visibility and validates natural-language Generative BI (QuickSight Q) against visual dashboard benchmarks.
+By synthesizing relational data from sales, marketing, and support streams connected through `account_id`, this platform enables unified cross-departmental visibility and validates Amazon Quick's natural-language analytics against visual dashboard benchmarks.
 
 ---
 
@@ -72,7 +72,7 @@ novatech-crm-analytics/
 ├── screenshots/                          # Audit & dashboard telemetry captures
 │   ├── data_import/                      # Ingestion workflow captures
 │   ├── data_transformation/              # Calculated fields & schema joins
-│   └── topic_exploration/                # QuickSight Q natural language queries
+│   └── topic_exploration/                # Amazon Quick natural-language queries
 ├── .gitignore                            # Environment & OS ignore rules
 └── README.md                             # Master repository documentation
 ```
@@ -101,15 +101,15 @@ novatech-crm-analytics/
 
 ---
 
-## Generative BI & QuickSight Q Evaluation
+## Generative BI & Amazon Quick Evaluation
 
 This implementation benchmarked natural-language generative queries against visual dashboard telemetry:
 
-1. **Accuracy Parity:** Across all test scenarios, QuickSight Q achieved **100% concordance** with dashboard visual ground truth.
-2. **Operational Integration:** QuickSight Q is recommended for self-service executive inquiries, while operational dashboards maintain regulatory data lineage.
+1. **Accuracy Parity:** Across all test scenarios, Amazon Quick's natural-language analytics achieved **100% concordance** with dashboard visual ground truth.
+2. **Operational Integration:** Amazon Quick is recommended for self-service executive inquiries, while operational dashboards maintain regulatory data lineage.
 
 For the complete validation matrix, refer to [`docs/quicksight_q_exploration_log.md`](docs/quicksight_q_exploration_log.md).
 
 ## Project Status
 
-This repository contains the source datasets, reference materials, templates, and documented QuickSight Q validation work for the NovaTech analytics project. It represents a hands-on portfolio project from the Udacity AI/ML Scholars and AWS Future Business Professional learning journey.
+This repository contains the source datasets, reference materials, templates, and documented Amazon Quick validation work for the NovaTech analytics project. It represents a hands-on portfolio project from the Udacity AI/ML Scholars and AWS Future Business Professional learning journey.
